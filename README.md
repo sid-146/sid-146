@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Sudhanwa. I'm a Data Science and AI Enthusiast.</h3>
+<h3 align="center">Hi there👋! My name is Sudhanwa. I'm a Data Science and AI Enthusiast.</h3>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/65759652?s=400&u=94755cf862af315df5c278bab30af6729debf344&v=4"  />
+<!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/65759652?s=400&u=94755cf862af315df5c278bab30af6729debf344&v=4"  /> -->
 
 ###
 
