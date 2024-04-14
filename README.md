@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Sudhanwa. I'm a Data Science and AI Enthusiast.</h3>
+<h3 align="center">Hi there👋! My name is Sudhanwa. I'm a Data Science and AI Enthusiast.</h3>
 
 ###
 
