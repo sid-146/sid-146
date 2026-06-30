@@ -2,7 +2,7 @@
 
 # Hi there, I'm SK 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=AI+Engineer;Data+Engineer;Building+AI-Powered+Products;Open-Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=AI+Engineer;Data+Scientist;Data+Engineer;Building+AI-Powered+Products;Open-Source+Enthusiast" alt="Typing SVG" />
 
 ---
 
