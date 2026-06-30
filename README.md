@@ -17,7 +17,7 @@
 - 🤖 AI Engineer focused on **LLMs, Agentic AI, RAG Systems, and Data Engineering pipelines**.
 - 🔭 Currently building **AI automation systems, local LLM workflows with Ollama, and scalable backend architectures**.
 - ⚙️ Strong focus on **production-ready AI systems, data pipelines, and cloud-native deployments**.
-- 🎸 Outside of coding, I play the **electric guitar**, explore new tech, and optimize my dev workflow.
+  <!-- - 🎸 Outside of coding, I play the **electric guitar**, explore new tech, and optimize my dev workflow. -->
 
 ---
 
